@@ -34,6 +34,13 @@ In your `application.js`, add the following line to include Redactor library:
 //= require redactorjs-rails/redactor
 ```
 
+To load a specific language, for example french (with the language code `fr`):
+
+```JS
+//= require redactorjs-rails/langs/fr
+```
+
+
 ## Contributing
 
 1. Fork it
