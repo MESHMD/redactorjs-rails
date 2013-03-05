@@ -20,7 +20,7 @@ Or install it yourself as:
 ## Usage
 
 
-In your `application.css`, add the following line to include Redactor CSS:
+In your `application.css`, add the following line to include the Redactor CSS:
 
 ```css
 /*
@@ -28,13 +28,13 @@ In your `application.css`, add the following line to include Redactor CSS:
  */
 ```
 
-In your `application.js`, add the following line to include Redactor library:
+In your `application.js`, add the following line to include the Redactor library:
 
 ```JS
 //= require redactorjs-rails/redactor
 ```
 
-To load a specific language, for example french (with the language code `fr`):
+To load a specific language, for example French (with the language code `fr`):
 
 ```JS
 //= require redactorjs-rails/langs/fr
@@ -51,6 +51,6 @@ To load a specific language, for example french (with the language code `fr`):
 
 ## License
 
-The `redactorjs-rails` project is MIT-LICENSE.
+The `redactorjs-rails` project is under an MIT-LICENSE.
 
 Redactor has [three different licenses](http://imperavi.com/redactor/download/) available for use. For further details please see [the License Agreement](http://imperavi.com/redactor/license/).
