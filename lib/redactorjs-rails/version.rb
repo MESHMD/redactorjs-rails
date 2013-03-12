@@ -1,5 +1,5 @@
 module Redactorjs
   module Rails
-    VERSION = "0.0.1"
+    VERSION = "8.2.3"
   end
 end
