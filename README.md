@@ -1,7 +1,7 @@
 Redactorjs-rails
 ================
 
-The [Redactor](http://imperavi.com/redactor/) editor (version 8.2.3) bundled as an asset for the rails asset pipeline.
+The [Redactor](http://imperavi.com/redactor/) editor (version 9.1.4) bundled as an asset for the rails asset pipeline.
 
 ## Installation
 
